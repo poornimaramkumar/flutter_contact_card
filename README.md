@@ -1,4 +1,4 @@
-# i_am_rich
+# Flutter contacct card 
 
 A new Flutter project.
 
